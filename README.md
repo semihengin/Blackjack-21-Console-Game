@@ -2,6 +2,10 @@
 
 This project is a console-based implementation of the classic Blackjack game, developed in the C programming language. It serves as an educational exercise to enhance proficiency in C and to understand fundamental game development concepts. This was one of my first programming experiences and helped me grasp basic programming logic and game mechanics.
 
+**Note:**
+
+This project was developed in **October 2020 during my first year of university** as one of my earliest programming experiences, helping me understand C programming and game development fundamentals.
+
 ## Game Overview
 
 Blackjack, also known as 21, is a popular card game where the objective is to have a hand value closer to 21 than the dealer's hand without exceeding 21. The game is typically played with one or more decks of standard playing cards.
